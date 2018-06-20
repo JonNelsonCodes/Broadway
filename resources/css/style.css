@@ -1,8 +1,16 @@
 html, body {
   text-align: center;
+  margin: auto;
+  padding: 10px;
 
 }
 
 .header {
   background: url(/D:/Broadway/resources/images/building.png);
+}
+
+.wrapup {
+  text-align: left;
+  max-width: fit-content;
+
 }
